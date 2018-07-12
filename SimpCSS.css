@@ -2,7 +2,10 @@
 {
 	font-family: 'Roboto', sans-serif;
 }
-
+body
+{
+	background-color: #FFF8DC;
+}
 div
 {
 	height: 100px;
