@@ -1,0 +1,82 @@
+*
+{
+	font-family: 'Roboto', sans-serif;
+}
+
+div
+{
+	height: 100px;
+	width: 100px;
+}
+
+h1
+{
+	text-align: center;
+	height: 100px;
+	font-size: 60px;
+}
+img
+{
+	border: solid;		
+}
+h3
+{
+	text-align: center;
+}
+p
+ {	
+ 	
+ 	margin-right: 100px;
+ 	text-align: right;
+ }
+figure
+{
+	
+}
+/******************img****************/
+figcaption
+{	
+	margin-top: 100px;
+	width: 80px;
+
+}
+#logo
+{	
+	display: block;
+	width: 300px;
+	margin-left: 230px;
+	margin-top: -10px;
+	margin-bottom: 0px; 
+	margin-right: 0px;
+	
+}
+#plan
+{	
+	display: block;
+	width: 294px;
+	margin-left: 648px;
+	margin-top: -358px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+
+}
+#Llogo
+{
+	width: 100px;
+	margin-left: 330px;
+}
+
+#Lplan
+{
+	width: 100px;
+	margin-left: 750px;
+}
+.bottom
+{
+	background: #696969;
+	position: absolute;
+	bottom:0;
+	width:100%;
+	padding-top:50px;
+	height:50px;
+}
